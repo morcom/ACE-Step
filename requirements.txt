@@ -9,7 +9,7 @@ pypinyin==0.53.0
 pytorch_lightning==2.5.1
 soundfile==0.13.1
 tqdm
-transformers==4.49.0
+transformers==5.10.1
 py3langid==0.3.0
 hangul-romanize==0.1.0
 num2words==0.5.14
